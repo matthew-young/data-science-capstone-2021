@@ -26,10 +26,11 @@ American Time Use Survey Investigation.ipynb - Jupyter Notebook with the steps t
 - numpy
 - matplotlib
 
-## special thanks
+## Special Thanks
 
 - Udacity
 - Kaggle
 - Paula Hwang
 - Steve L Brunton and J Nathan Kutz
 - Stanley Robert Parker
+- Alexis Van Den Hoogen
